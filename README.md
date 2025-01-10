@@ -1,8 +1,8 @@
 ## Agil Store
 
 O deploy do projeto foi feito no render.
-Acesse o link abaixo para ver o projeto em produção:
-[Clique aqui]('https://agil-store-django.onrender.com/')
+Acesse o link para ver o projeto em produção:
+[Clique aqui](https://agil-store-django.onrender.com/)
 
 ## Para rodar localmente você precisa
 ### 1. O que preciso instalar?
